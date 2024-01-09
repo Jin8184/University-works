@@ -1,0 +1,3 @@
+2020-1 Python class
+
+Mostly beginner's work. Short lines of codes to know about hows code working, how to type fast enough...
