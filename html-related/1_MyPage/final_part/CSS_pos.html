@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .box {
+            width: 100px;
+            height: 100px;
+            position: absolute
+        }
+
+        .box:nth-child(1) {
+            background-color: rgba(255, 0, 0, 0.900);
+            left: 10px;
+            top: 10px;
+            z-index: 100;
+        }
+
+        .box:nth-child(2) {
+            background-color: rgba(0, 128, 0, 0.900);
+            left: 50px;
+            top: 50px;
+            z-index: 10;
+        }
+
+        .box:nth-child(3) {
+            background-color: rgba(0, 0, 255, 0.900);
+            left: 90px;
+            top: 90px;
+            z-index: 11;
+        }
+
+        body > div {
+            width: 400px; height: 100px;
+            border: 3px solid black;
+            position: relative;
+            /*기준점 공식 암기! 상대적으로 바꿔줘야 함.
+            자손의 포지션 속성에 절대적 키워드를 적용하려면
+            부모의 포지션 속성에 상대적을 적용해야 함*/
+            overflow-x: hidden;
+            overflow-y: scroll;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <h1>Lorem ipsum</h1>
+    <div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+    </div>
+
+    <h1>Lorem ipsum</h1>
+
+
+</body>
+
+</html>

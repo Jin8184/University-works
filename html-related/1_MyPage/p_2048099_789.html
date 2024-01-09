@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>과제 7,8,9</title>
+</head>
+
+<body>
+
+    <form method="post">
+        <table>
+            <tr>
+                <td><label for="iid"><b>아이디</b></label></td>
+                <td><input id="iid" type="text"></td>
+            </tr>
+            <tr>
+                <td><label for="passwoord"><b>비밀번호</b></label></td>
+                <td><input id="passwoord" type="password"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit"></td>
+            </tr>
+        </table>
+    </form>
+
+    <br>
+    <hr><br>
+
+    <form method="post">
+        <h4>시작 그룹</h4>
+        <input type="radio" id="newtab" name="ttaabb" value="새 탭 페이지 열기">
+        <label for="newtab">새 탭 페이지 열기</label><br>
+        <input type="radio" id="paused" name="ttaabb" value="중단한 위치에서 계속하기">
+        <label for="paused">중단한 위치에서 계속하기</label><br>
+        <input type="radio" id="exactpage" name="ttaabb" value="특정 페이지 또는 페이지 모음 열기">
+        <label for="exactpag">특정 페이지 또는 페이지 모음 열기</label><br>
+        <br>
+
+        <h4>개인정보 및 보안</h4>
+        <input type="checkbox" name="Sync" value="동기화 및 서비스">
+        <label for="Sync">동기화 및 서비스</label><br>
+        <input type="checkbox" name="acceptlogin" value="로그인 허용">
+        <label for="acceptlogin">로그인 허용</label><br>
+        <input type="checkbox" name="preloadpage" value="페이지 미리 로드">
+        <label for="preloadpage">페이지 미리 로드</label><br>
+    </form>
+
+    <br>
+    <hr><br>
+
+    <form method="post">
+        <table>
+            <tr><h2>글 작성하기</h2></tr>
+            <tr>
+                <td><label for="wri"><b>작성자</b></label></td>
+                <td><input id="wri" type="text"></td>
+            </tr>
+            <tr>
+                <td><label for="iiid"><b>아이디</b></label></td>
+                <td><input id="iiid" type="text"></td>
+            </tr>
+            <tr>
+                <td><label for="yee"><b>이메일</b></label></td>
+                <td><input id="yee" type="text"><a>@</a><input id="yeee" type="text"></td>
+            </tr>
+            <tr>
+                <td><label for="phn"><b>휴대폰</b></label></td>
+                <td>
+                    <select><option>010</option><option>042</option></select>
+                    <a>-</a><input id="frophn" type="text">
+                    <a>-</a><input id="bakphn" type="text">
+                </td>
+            </tr>
+            <tr>
+                <td><label for="big"><b>글제목</b></label></td>
+                <td><input id="big" type="text"></td>
+            </tr>
+            <tr>
+                <td><label for="smol"><b>내용</b></label></td>
+                <td>
+                    <textarea cols="30" rows="11"></textarea>
+                    <br><input type="submit">
+                </td>
+            </tr>
+        </table>
+    </form>
+
+
+</body>
+
+</html>
