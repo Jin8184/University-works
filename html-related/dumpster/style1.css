@@ -1,0 +1,87 @@
+.front {
+    position: relative;
+    z-index: 100;
+}
+
+.back {
+    position: relative;
+    z-index: 20;
+}
+
+body {
+    background-color: rgb(33, 29, 46);
+    margin: 0 auto;
+}
+
+.background {
+    /* opacity: 50%; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10%;
+    width: 90%;
+}
+
+.opzero {
+    opacity: 0%;
+}
+
+.opzero:hover {
+    opacity: 100%;
+}
+
+.maintextbox {
+    background-color: aquamarine;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.maintextbox:hover {
+    background-color: cadetblue;
+}
+
+.button {
+    width: 100px;
+    height: 50px;
+}
+
+.chip {
+    color: orange;
+}
+
+.chip:hover .opzero{
+    visibility: visible;
+    color: brown;
+}
+
+.txtcenter {
+    display: block;
+    /* line-height: 100px; */
+}
+
+.bigfont {
+    font-size: 30px;
+    font-weight: 1000;
+    line-height: 100px;
+
+}
+
+.smolfont {
+    font-size: 20px;
+    font-weight: 12;
+    line-height: 50px;
+}
+
+.center {
+    /* background-color: white; */
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.wide {
+    letter-spacing: 10px;
+}
