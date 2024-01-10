@@ -1,0 +1,7 @@
+C:\Users\piska\Documents\vs202302\9assin\chap5prac5\bin\Debug\chap5prac5.exe.config
+C:\Users\piska\Documents\vs202302\9assin\chap5prac5\bin\Debug\chap5prac5.exe
+C:\Users\piska\Documents\vs202302\9assin\chap5prac5\bin\Debug\chap5prac5.pdb
+C:\Users\piska\Documents\vs202302\9assin\chap5prac5\obj\Debug\chap5prac5.csproj.AssemblyReference.cache
+C:\Users\piska\Documents\vs202302\9assin\chap5prac5\obj\Debug\chap5prac5.csproj.CoreCompileInputs.cache
+C:\Users\piska\Documents\vs202302\9assin\chap5prac5\obj\Debug\chap5prac5.exe
+C:\Users\piska\Documents\vs202302\9assin\chap5prac5\obj\Debug\chap5prac5.pdb

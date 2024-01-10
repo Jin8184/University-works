@@ -1,0 +1,7 @@
+C:\Users\piska\Documents\vs202302\9assin\classes\bin\Debug\classes.exe.config
+C:\Users\piska\Documents\vs202302\9assin\classes\bin\Debug\classes.exe
+C:\Users\piska\Documents\vs202302\9assin\classes\bin\Debug\classes.pdb
+C:\Users\piska\Documents\vs202302\9assin\classes\obj\Debug\classes.csproj.AssemblyReference.cache
+C:\Users\piska\Documents\vs202302\9assin\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+C:\Users\piska\Documents\vs202302\9assin\classes\obj\Debug\classes.exe
+C:\Users\piska\Documents\vs202302\9assin\classes\obj\Debug\classes.pdb

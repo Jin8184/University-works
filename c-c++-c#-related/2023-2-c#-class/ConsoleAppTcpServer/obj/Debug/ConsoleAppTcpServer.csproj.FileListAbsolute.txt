@@ -1,0 +1,7 @@
+C:\Users\piska\Documents\vs202302\9assin\ConsoleAppTcpServer\bin\Debug\ConsoleAppTcpServer.exe.config
+C:\Users\piska\Documents\vs202302\9assin\ConsoleAppTcpServer\bin\Debug\ConsoleAppTcpServer.exe
+C:\Users\piska\Documents\vs202302\9assin\ConsoleAppTcpServer\bin\Debug\ConsoleAppTcpServer.pdb
+C:\Users\piska\Documents\vs202302\9assin\ConsoleAppTcpServer\obj\Debug\ConsoleAppTcpServer.csproj.AssemblyReference.cache
+C:\Users\piska\Documents\vs202302\9assin\ConsoleAppTcpServer\obj\Debug\ConsoleAppTcpServer.csproj.CoreCompileInputs.cache
+C:\Users\piska\Documents\vs202302\9assin\ConsoleAppTcpServer\obj\Debug\ConsoleAppTcpServer.exe
+C:\Users\piska\Documents\vs202302\9assin\ConsoleAppTcpServer\obj\Debug\ConsoleAppTcpServer.pdb
