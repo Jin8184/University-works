@@ -1,0 +1,7 @@
+C:\Users\piska\Documents\vs202302\chap4Prac10\bin\Debug\chap4Prac10.exe.config
+C:\Users\piska\Documents\vs202302\chap4Prac10\bin\Debug\chap4Prac10.exe
+C:\Users\piska\Documents\vs202302\chap4Prac10\bin\Debug\chap4Prac10.pdb
+C:\Users\piska\Documents\vs202302\chap4Prac10\obj\Debug\chap4Prac10.csproj.AssemblyReference.cache
+C:\Users\piska\Documents\vs202302\chap4Prac10\obj\Debug\chap4Prac10.csproj.CoreCompileInputs.cache
+C:\Users\piska\Documents\vs202302\chap4Prac10\obj\Debug\chap4Prac10.exe
+C:\Users\piska\Documents\vs202302\chap4Prac10\obj\Debug\chap4Prac10.pdb

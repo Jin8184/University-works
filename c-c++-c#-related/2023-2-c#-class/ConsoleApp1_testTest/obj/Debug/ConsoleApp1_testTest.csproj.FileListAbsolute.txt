@@ -1,0 +1,7 @@
+C:\Users\piska\Documents\vs202302\ConsoleApp1_testTest\bin\Debug\ConsoleApp1_testTest.exe.config
+C:\Users\piska\Documents\vs202302\ConsoleApp1_testTest\bin\Debug\ConsoleApp1_testTest.exe
+C:\Users\piska\Documents\vs202302\ConsoleApp1_testTest\bin\Debug\ConsoleApp1_testTest.pdb
+C:\Users\piska\Documents\vs202302\ConsoleApp1_testTest\obj\Debug\ConsoleApp1_testTest.csproj.AssemblyReference.cache
+C:\Users\piska\Documents\vs202302\ConsoleApp1_testTest\obj\Debug\ConsoleApp1_testTest.csproj.CoreCompileInputs.cache
+C:\Users\piska\Documents\vs202302\ConsoleApp1_testTest\obj\Debug\ConsoleApp1_testTest.exe
+C:\Users\piska\Documents\vs202302\ConsoleApp1_testTest\obj\Debug\ConsoleApp1_testTest.pdb

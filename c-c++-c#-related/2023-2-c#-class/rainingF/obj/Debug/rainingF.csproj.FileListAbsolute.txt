@@ -1,0 +1,7 @@
+C:\Users\piska\Documents\vs202302\rainingF\bin\Debug\rainingF.exe.config
+C:\Users\piska\Documents\vs202302\rainingF\bin\Debug\rainingF.exe
+C:\Users\piska\Documents\vs202302\rainingF\bin\Debug\rainingF.pdb
+C:\Users\piska\Documents\vs202302\rainingF\obj\Debug\rainingF.csproj.AssemblyReference.cache
+C:\Users\piska\Documents\vs202302\rainingF\obj\Debug\rainingF.csproj.CoreCompileInputs.cache
+C:\Users\piska\Documents\vs202302\rainingF\obj\Debug\rainingF.exe
+C:\Users\piska\Documents\vs202302\rainingF\obj\Debug\rainingF.pdb
