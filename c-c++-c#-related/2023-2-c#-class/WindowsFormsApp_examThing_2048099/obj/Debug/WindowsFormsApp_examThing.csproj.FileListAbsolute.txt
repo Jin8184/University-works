@@ -1,0 +1,10 @@
+C:\Users\piska\Documents\vs202302\WindowsFormsApp_examThing\bin\Debug\WindowsFormsApp_examThing.exe.config
+C:\Users\piska\Documents\vs202302\WindowsFormsApp_examThing\bin\Debug\WindowsFormsApp_examThing.exe
+C:\Users\piska\Documents\vs202302\WindowsFormsApp_examThing\bin\Debug\WindowsFormsApp_examThing.pdb
+C:\Users\piska\Documents\vs202302\WindowsFormsApp_examThing\obj\Debug\WindowsFormsApp_examThing.csproj.AssemblyReference.cache
+C:\Users\piska\Documents\vs202302\WindowsFormsApp_examThing\obj\Debug\WindowsFormsApp_examThing.Form1.resources
+C:\Users\piska\Documents\vs202302\WindowsFormsApp_examThing\obj\Debug\WindowsFormsApp_examThing.Properties.Resources.resources
+C:\Users\piska\Documents\vs202302\WindowsFormsApp_examThing\obj\Debug\WindowsFormsApp_examThing.csproj.GenerateResource.cache
+C:\Users\piska\Documents\vs202302\WindowsFormsApp_examThing\obj\Debug\WindowsFormsApp_examThing.csproj.CoreCompileInputs.cache
+C:\Users\piska\Documents\vs202302\WindowsFormsApp_examThing\obj\Debug\WindowsFormsApp_examThing.exe
+C:\Users\piska\Documents\vs202302\WindowsFormsApp_examThing\obj\Debug\WindowsFormsApp_examThing.pdb

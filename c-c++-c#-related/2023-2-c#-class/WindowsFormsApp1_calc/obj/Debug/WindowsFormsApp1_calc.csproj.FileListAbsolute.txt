@@ -1,0 +1,10 @@
+C:\Users\piska\Documents\vs202302\WindowsFormsApp1_calc\bin\Debug\WindowsFormsApp1_calc.exe.config
+C:\Users\piska\Documents\vs202302\WindowsFormsApp1_calc\bin\Debug\WindowsFormsApp1_calc.exe
+C:\Users\piska\Documents\vs202302\WindowsFormsApp1_calc\bin\Debug\WindowsFormsApp1_calc.pdb
+C:\Users\piska\Documents\vs202302\WindowsFormsApp1_calc\obj\Debug\WindowsFormsApp1_calc.csproj.AssemblyReference.cache
+C:\Users\piska\Documents\vs202302\WindowsFormsApp1_calc\obj\Debug\WindowsFormsApp1_calc.Form1.resources
+C:\Users\piska\Documents\vs202302\WindowsFormsApp1_calc\obj\Debug\WindowsFormsApp1_calc.Properties.Resources.resources
+C:\Users\piska\Documents\vs202302\WindowsFormsApp1_calc\obj\Debug\WindowsFormsApp1_calc.csproj.GenerateResource.cache
+C:\Users\piska\Documents\vs202302\WindowsFormsApp1_calc\obj\Debug\WindowsFormsApp1_calc.csproj.CoreCompileInputs.cache
+C:\Users\piska\Documents\vs202302\WindowsFormsApp1_calc\obj\Debug\WindowsFormsApp1_calc.exe
+C:\Users\piska\Documents\vs202302\WindowsFormsApp1_calc\obj\Debug\WindowsFormsApp1_calc.pdb

@@ -1,0 +1,7 @@
+C:\Users\piska\Documents\vs202302\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\piska\Documents\vs202302\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\piska\Documents\vs202302\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\piska\Documents\vs202302\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\piska\Documents\vs202302\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\piska\Documents\vs202302\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\piska\Documents\vs202302\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
