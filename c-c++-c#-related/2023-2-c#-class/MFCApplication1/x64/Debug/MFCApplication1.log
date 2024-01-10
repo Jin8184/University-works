@@ -1,0 +1,3 @@
+﻿  ChildView.cpp
+C:\Users\piska\Documents\vs202302\MFCApplication1\ChildView.cpp(65,18): error C2509: 'OnLButtonDown': 멤버 함수를 'CChildView'에서 선언하지 않았습니다.
+C:\Users\piska\Documents\vs202302\MFCApplication1\ChildView.h(11,7): message : 'CChildView' 선언을 참조하십시오.
